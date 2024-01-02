@@ -1,0 +1,45 @@
+
+@font-face {
+  font-family: "GT Walsheim Pro Regular Regular";
+  src: url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.eot");
+  src: url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/0abeb2471faeb5269db428b9eac2075e.svg#GT Walsheim Pro Regular Regular")format("svg");
+
+}
+@font-face {
+  font-family: "Integral CF Regular";
+  src: url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.eot");
+  src: url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/f1fcc5aed1e20fc0cdb9f8a7573625bd.svg#Integral CF Regular")format("svg");
+}
+.card-body{
+   transform-origin: 0 0;
+    background: rgba(73, 109, 219, 0.42) ;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  */
+    border-radius: 45px;
+     border: 1px #40434C solid;
+      /* backdrop-filter: blur(61px); */
+}
+.card{
+  background-color: transparent !important;
+  color: white;
+   text-align:left;
+     font-size: 18px;
+     font-family: 'GT Walsheim Pro Regular Regular';
+       font-weight: 700;
+       
+}
+.card-title{
+  text-align: justify;
+   color: white;
+    font-size: 48px;
+      font-weight: 700;
+
+       word-wrap:break-word;
+}
